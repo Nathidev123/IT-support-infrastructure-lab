@@ -33,7 +33,7 @@ The following checks were performed to identify where connectivity may be failin
 ![Gateway Ping](https://github.com/Nathidev123/IT-support-infrastructure-lab/blob/main/gateway-ping.png?raw=true)
 
 ### Internet Connectivity & DNS
-![Google Ping](google-ping.png)
+![Google Ping](https://github.com/Nathidev123/IT-support-infrastructure-lab/blob/main/google-ping.png?raw=true)
 
 ## Findings
 
