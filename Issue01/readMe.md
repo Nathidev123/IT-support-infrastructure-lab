@@ -27,7 +27,7 @@ The following checks were performed to identify where connectivity may be failin
 ![IP Configuration](https://github.com/Nathidev123/IT-support-infrastructure-lab/blob/main/ipconfig.png?raw=true)
 
 ### Local TCP/IP Stack
-![Loopback Ping](loopback-ping.png)
+![Loopback Ping]([loopback-ping.png](https://github.com/Nathidev123/IT-support-infrastructure-lab/blob/main/loopback-ping.png?raw=true))
 
 ### Default Gateway Connectivity
 ![Gateway Ping](gateway-ping.png)
