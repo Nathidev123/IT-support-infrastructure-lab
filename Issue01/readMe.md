@@ -30,7 +30,7 @@ The following checks were performed to identify where connectivity may be failin
 ![Loopback Ping](https://github.com/Nathidev123/IT-support-infrastructure-lab/blob/main/loopback-ping.png?raw=true)
 
 ### Default Gateway Connectivity
-![Gateway Ping](gateway-ping.png)
+![Gateway Ping](https://github.com/Nathidev123/IT-support-infrastructure-lab/blob/main/gateway-ping.png?raw=true)
 
 ### Internet Connectivity & DNS
 ![Google Ping](google-ping.png)
