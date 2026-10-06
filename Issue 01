@@ -21,19 +21,19 @@ The following checks were performed to identify where connectivity may be failin
 
 ### Network Configuration
 
-
+![ipconfig ](../evidence/issue-01/Screenshot%20%28353%29.png)
 
 ### Local TCP/IP Stack
 
-
+![Loopback Ping](../evidence/issue-01/Screenshot%20%28350%29.png)
 
 ### Default Gateway Connectivity
 
-
+![Default gateway](../evidence/issue-01/Screenshot%20%28351%29.png)
 
 ### Internet Connectivity & DNS
 
-
+![DNS](../evidence/issue-01/Screenshot%20%28352%29.png)
 
 ## Findings
 
