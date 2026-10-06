@@ -25,7 +25,7 @@ Incident Analysis & Problem Resolution
 The labs are approached as technical investigations, with an emphasis on understanding the problem, gathering evidence, identifying the root cause, and determining the appropriate resolution or next step.
 
 User Issue → Investigation → Evidence → Analysis → Diagnosis → Resolution
-
+https://github.com/Nathidev123/IT-support-infrastructure-lab/blob/main/ipconfig.png?raw=true
 🏫 Current Learning
 
 CompTIA Network+ (N10-009)
