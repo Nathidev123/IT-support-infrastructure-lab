@@ -24,7 +24,7 @@ The following checks were performed to identify where connectivity may be failin
 ## Evidence
 
 ### Network Configuration
-![IP Configuration](ipconfig.png)
+![IP Configuration](https://github.com/Nathidev123/IT-support-infrastructure-lab/blob/0765be47aa563b1820f33d5e67f895cb8b0095c6/ipconfig.png)
 
 ### Local TCP/IP Stack
 ![Loopback Ping](loopback-ping.png)
