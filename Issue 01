@@ -56,3 +56,8 @@ The workstation demonstrated working local network connectivity, DNS resolution,
 No network configuration changes are recommended at this stage.
 
 If the user continues experiencing the issue, further investigation should determine whether the problem is intermittent, application-specific, or limited to particular websites or services.
+
+
+### Network Configuration
+![image alt](https://github.com/Nathidev123/IT-support-infrastructure-lab/blob/main/ipconfig.png?raw=true)
+![IP Configuration](https://github.com/Nathidev123/IT-support-infrastructure-lab/blob/main/ipconfig.png?raw=true)
